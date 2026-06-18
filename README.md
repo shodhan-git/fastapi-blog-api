@@ -1,4 +1,4 @@
-# 🚀 FastAPI Blog API
+#  FastAPI Blog API
 
 A Blog API built with FastAPI, PostgreSQL, SQLAlchemy, and JWT Authentication.
 
@@ -91,7 +91,7 @@ Deployed using Render with PostgreSQL.\
 
 **Live Demo**
 
-API Docs: https://your-render-url.onrender.com/docs
+API Docs: https://fastapi-blog-api-xrp3.onrender.com/docs
 
 ## 📚 What I Learned
 
